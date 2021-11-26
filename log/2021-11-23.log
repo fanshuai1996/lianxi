@@ -1,0 +1,33 @@
+ 2021-11-23 22:59:05,584 - root - INFO -  提交成功
+ 2021-11-23 22:59:05,584 - root - INFO -  添加数据
+ 2021-11-23 22:59:05,586 - root - INFO -  挑选数据
+ 2021-11-23 22:59:05,590 - root - INFO -  提交成功
+ 2021-11-23 22:59:05,590 - root - INFO -  删除添加的数据
+ 2021-11-23 22:59:05,593 - root - INFO -  这是1,RESTRICTED,DEFAULT,True,RETAIL,10000,123,1234,这是好的
+ 2021-11-23 22:59:05,593 - root - INFO -  s=<requests.sessions.Session object at 0x0000022EB32CCA30>
+ 2021-11-23 22:59:06,072 - root - ERROR -  {'code': '000000', 'checkPoint': 'gc.null', 'comment': 'Completed successfully', 'data': 'ab13f75b1d534a2482573bcc34a9a37a'}
+ 2021-11-23 22:59:06,072 - root - INFO -  该接口执行花费了0.474778s
+ 2021-11-23 22:59:06,073 - root - INFO -  {'id': 42, 'classification_name': '这是1', 'status': 'DEFAULT', 'logo': '/resource/RETAIL/20211119/e8e6c8b16ef842a681e4054f53be2725.png', 'url': '', 'parentId': 0, 'source': 'RETAIL'}
+ 2021-11-23 22:59:06,073 - root - ERROR -  {'id': 42, 'classification_name': '这是1', 'status': 'DEFAULT', 'logo': '/resource/RETAIL/20211119/e8e6c8b16ef842a681e4054f53be2725.png', 'url': '', 'parentId': 0, 'source': 'RETAIL'}
+ 2021-11-23 22:59:06,082 - root - INFO -  提交成功
+ 2021-11-23 22:59:06,082 - root - INFO -  添加数据
+ 2021-11-23 22:59:06,083 - root - INFO -  挑选数据
+ 2021-11-23 22:59:06,085 - root - INFO -  提交成功
+ 2021-11-23 22:59:06,086 - root - INFO -  删除添加的数据
+ 2021-11-23 22:59:06,087 - root - INFO -  这是2,RESTRICTED,DEFAULT,True,RETAIL,10000,123,1234,这是好的
+ 2021-11-23 22:59:06,087 - root - INFO -  s=<requests.sessions.Session object at 0x0000022EB32CCA30>
+ 2021-11-23 22:59:06,581 - root - ERROR -  {'code': '000000', 'checkPoint': 'gc.null', 'comment': 'Completed successfully', 'data': 'd8272163aeb24ad7a4342ff569deefce'}
+ 2021-11-23 22:59:06,581 - root - INFO -  该接口执行花费了0.492043s
+ 2021-11-23 22:59:06,581 - root - INFO -  {'id': 43, 'classification_name': '这是2', 'status': 'DEFAULT', 'logo': '/resource/RETAIL/20211119/e8e6c8b16ef842a681e4054f53be2725.png', 'url': '', 'parentId': 0, 'source': 'RETAIL'}
+ 2021-11-23 22:59:06,582 - root - ERROR -  {'id': 43, 'classification_name': '这是2', 'status': 'DEFAULT', 'logo': '/resource/RETAIL/20211119/e8e6c8b16ef842a681e4054f53be2725.png', 'url': '', 'parentId': 0, 'source': 'RETAIL'}
+ 2021-11-23 22:59:06,590 - root - INFO -  提交成功
+ 2021-11-23 22:59:06,590 - root - INFO -  添加数据
+ 2021-11-23 22:59:06,592 - root - INFO -  挑选数据
+ 2021-11-23 22:59:06,593 - root - INFO -  提交成功
+ 2021-11-23 22:59:06,593 - root - INFO -  删除添加的数据
+ 2021-11-23 22:59:06,595 - root - INFO -  这是3,RESTRICTED,DEFAULT,True,RETAIL,10000,123,1234,这是好的
+ 2021-11-23 22:59:06,595 - root - INFO -  s=<requests.sessions.Session object at 0x0000022EB32CCA30>
+ 2021-11-23 22:59:07,075 - root - ERROR -  {'code': '000000', 'checkPoint': 'gc.null', 'comment': 'Completed successfully', 'data': '41a8126943fb420583ebd0f1e6ab63a3'}
+ 2021-11-23 22:59:07,076 - root - INFO -  该接口执行花费了0.478492s
+ 2021-11-23 22:59:07,076 - root - INFO -  {'id': 44, 'classification_name': '这是3', 'status': 'DEFAULT', 'logo': '/resource/RETAIL/20211119/e8e6c8b16ef842a681e4054f53be2725.png', 'url': '', 'parentId': 0, 'source': 'RETAIL'}
+ 2021-11-23 22:59:07,076 - root - ERROR -  {'id': 44, 'classification_name': '这是3', 'status': 'DEFAULT', 'logo': '/resource/RETAIL/20211119/e8e6c8b16ef842a681e4054f53be2725.png', 'url': '', 'parentId': 0, 'source': 'RETAIL'}
